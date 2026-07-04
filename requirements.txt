@@ -4,3 +4,4 @@ transformers==4.57.6
 bitsandbytes
 accelerate
 torch
+gradio
